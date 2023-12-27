@@ -2,6 +2,13 @@
 name = "platform-millis"
 version = "1.0.0"
 edition = "2021"
+description = "platform-millis is the generic trait of milliseconds getter for embedded-nano-mesh crate"
+authors = ["Yevhen Shevchenko (boshtannik) <boshtannik@gmail.com>"]
+readmme = "README.md"
+repository = "https://github.com/boshtannik/platform-millis"
+license-file = "LICENSE"
+keywords = ["embedded-nano-mesh", "platform", "millis"]
+categories = ["embedded", "no-std", "date-and-time"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
