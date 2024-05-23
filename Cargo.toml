@@ -1,8 +1,8 @@
 [package]
 name = "platform-millis"
-version = "1.0.0"
+version = "2.0.0"
 edition = "2021"
-description = "platform-millis is the generic trait of milliseconds getter for embedded-nano-mesh crate"
+description = "platform-millis is the generic trait of milliseconds counter for embedded-nano-mesh crate"
 authors = ["Yevhen Shevchenko (boshtannik) <boshtannik@gmail.com>"]
 readmme = "README.md"
 repository = "https://github.com/boshtannik/platform-millis"
